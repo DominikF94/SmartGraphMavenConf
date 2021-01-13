@@ -29,6 +29,7 @@ com/brunomnsilva/smartgraph/graphview/SmartGraphEdgeLine.class
 com/brunomnsilva/smartgraph/graphview/SmartGraphPanel$Tuple.class
 com/brunomnsilva/smartgraph/graphview/UtilitiesJavaFX.class
 com/brunomnsilva/smartgraph/graphview/SmartLabel.class
+module-info.class
 com/brunomnsilva/smartgraph/graphview/SmartGraphPanel$1.class
 com/brunomnsilva/smartgraph/graph/GraphEdgeList$MyVertex.class
 com/brunomnsilva/smartgraph/graphview/SmartGraphPanel.class
